@@ -87,13 +87,13 @@ for chardata in character_averages:
         "seasons":[],
         "place":place
     }
-    for season in char["Seasons"]:
+    for season in char["Seasons"][::-1]:
         season_blob = {
             "number":int(season)-1,
             "total":char[season]["Total"],
             "categories":{k:char[season][k] for k in char[season] if char[season][k] and k not in ['ID','Total','Name']}
         }
-        character_bundle["seasons"].append(season_blob)
+    
     place += 1
     character_bundles.append(character_bundle)
 
