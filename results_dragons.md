@@ -1,8 +1,8 @@
 ## Character points:
 
-### 1: [Daenerys Targaryen](https://fantasora.com/char/31) (247.7 pps)
+### 1: [Daenerys Targaryen](https://fantasora.com/char/31) (247.3 pps)
 <details>
-<summary> 1486 total points in 6 seasons </summary>
+<summary> 1484 total points in 6 seasons </summary>
 <details>
 <summary>Season 7: 923</summary>
 
@@ -15,7 +15,7 @@
 **Special** : 3  
 </details>
 <details>
-<summary>Season 6: 162</summary>
+<summary>Season 6: 160</summary>
 
 [Fantasora link](https://fantasora.com/game/1/season/7/char/31)  
 **Insults** : 6  
