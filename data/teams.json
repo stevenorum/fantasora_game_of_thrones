@@ -1,0 +1,119 @@
+[
+    {
+        "ID":"7932",
+        "Name":"Win Or Die",
+        "Characters":[
+            {"ID":"397","Drafted":5},
+            {"ID":"81","Drafted":14},
+            {"ID":"82","Drafted":23},
+            {"ID":"101","Drafted":32},
+            {"ID":"283","Drafted":41},
+            {"ID":"270","Drafted":50},
+            {"ID":"233","Drafted":59}
+        ]
+    },
+    {
+        "ID":"7989",
+        "Name":"oysters, clams, and cockles!",
+        "Characters":[
+            {"ID":"18","Drafted":8},
+            {"ID":"5","Drafted":11},
+            {"ID":"28","Drafted":26},
+            {"ID":"72","Drafted":29},
+            {"ID":"84","Drafted":44},
+            {"ID":"92","Drafted":47},
+            {"ID":"222","Drafted":62}
+        ]
+    },
+    {
+        "ID":"8039",
+        "Name":"I'VE GOT A LIST TOO, ARYA",
+        "Characters":[
+            {"ID":"67","Drafted":7},
+            {"ID":"258","Drafted":12},
+            {"ID":"80","Drafted":25},
+            {"ID":"277","Drafted":30},
+            {"ID":"264","Drafted":43},
+            {"ID":"1","Drafted":48},
+            {"ID":"249","Drafted":61}
+        ]
+    },
+    {
+        "ID":"8152",
+        "Name":"I still think Syrio Forel's not dead",
+        "Characters":[
+            {"ID":"31","Drafted":1},
+            {"ID":"7","Drafted":18},
+            {"ID":"216","Drafted":19},
+            {"ID":"27","Drafted":36},
+            {"ID":"52","Drafted":37},
+            {"ID":"104","Drafted":54},
+            {"ID":"95","Drafted":55}
+        ]
+    },
+    {
+        "ID":"8153",
+        "Name":"Manderly Pie Co.",
+        "Characters":[
+            {"ID":"387","Drafted":2},
+            {"ID":"23","Drafted":17},
+            {"ID":"377","Drafted":20},
+            {"ID":"396","Drafted":35},
+            {"ID":"45","Drafted":38},
+            {"ID":"394","Drafted":53},
+            {"ID":"256","Drafted":56}
+        ]
+    },
+    {
+        "ID":"8217",
+        "Name":"Arya / Bronn 2020",
+        "Characters":[
+            {"ID":"130","Drafted":9},
+            {"ID":"17","Drafted":10},
+            {"ID":"50","Drafted":27},
+            {"ID":"40","Drafted":28},
+            {"ID":"105","Drafted":45},
+            {"ID":"263","Drafted":46},
+            {"ID":"261","Drafted":63}
+        ]
+    },
+    {
+        "ID":"8800",
+        "Name":"Four-eyed Ravenclaw",
+        "Characters":[
+            {"ID":"391","Drafted":4},
+            {"ID":"19","Drafted":15},
+            {"ID":"38","Drafted":22},
+            {"ID":"37","Drafted":33},
+            {"ID":"395","Drafted":40},
+            {"ID":"378","Drafted":51},
+            {"ID":"161","Drafted":58}
+        ]
+    },
+    {
+        "ID":"9031",
+        "Name":"I drink and I know things",
+        "Characters":[
+            {"ID":"39","Drafted":3},
+            {"ID":"6","Drafted":16},
+            {"ID":"32","Drafted":21},
+            {"ID":"61","Drafted":34},
+            {"ID":"68","Drafted":39},
+            {"ID":"393","Drafted":52},
+            {"ID":"260","Drafted":57}
+        ]
+    },
+    {
+        "ID":"9901",
+        "Name":"Daenerys Targarywin",
+        "Characters":[
+            {"ID":"390","Drafted":6},
+            {"ID":"9","Drafted":13},
+            {"ID":"63","Drafted":24},
+            {"ID":"36","Drafted":31},
+            {"ID":"13","Drafted":42},
+            {"ID":"392","Drafted":49},
+            {"ID":"126","Drafted":60}
+        ]
+    }
+]
