@@ -7,10 +7,10 @@ from jinja2 import Environment, FileSystemLoader
 
 base_dir = "/".join(os.path.realpath(__file__).split("/")[:-2]) # yes, this is janky. no, I don't care
 data_dir = os.path.join(base_dir, "data")
-results_file = os.path.join(base_dir, "results.md")
+results_file = os.path.join(base_dir, "results_dragons.md")
 env = Environment(loader=FileSystemLoader(os.path.join(base_dir, "jinja_templates")))
 
-with open(os.path.join(data_dir, 'info.json'),'r') as f:
+with open(os.path.join(data_dir, 'info_dragons.json'),'r') as f:
     info = json.load(f)
 
 keys = [
