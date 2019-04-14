@@ -53,7 +53,6 @@ for cname in character_map:
 character_averages.sort(key = lambda c: c[1], reverse=True)
 place = 1
 
-
 character_bundles = []
 
 for chardata in character_averages:

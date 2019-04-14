@@ -258,7 +258,43 @@
 
 </details>
 
-### 5: [Robert Baratheon](https://fantasora.com/char/53) (87.0 pps)
+### 5: [Drogon](https://fantasora.com/char/387) (103.0 pps)
+<details>
+<summary> 515 total points in 5 seasons </summary>
+<details>
+<summary>Season 7: 456</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/8/char/387)  
+**Kills** : 456  
+</details>
+<details>
+<summary>Season 6: 15</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/7/char/387)  
+**Kills** : 15  
+</details>
+<details>
+<summary>Season 5: 36</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/6/char/387)  
+**Kills** : 36  
+</details>
+<details>
+<summary>Season 4: 4</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/5/char/387)  
+**Kills** : 4  
+</details>
+<details>
+<summary>Season 2: 4</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/3/char/387)  
+**Kills** : 4  
+</details>
+
+</details>
+
+### 6: [Robert Baratheon](https://fantasora.com/char/53) (87.0 pps)
 <details>
 <summary> 87 total points in 1 season </summary>
 <details>
@@ -275,7 +311,7 @@
 
 </details>
 
-### 6: [Khal Drogo](https://fantasora.com/char/34) (86.0 pps)
+### 7: [Khal Drogo](https://fantasora.com/char/34) (86.0 pps)
 <details>
 <summary> 86 total points in 1 season </summary>
 <details>
@@ -293,7 +329,7 @@
 
 </details>
 
-### 7: [Doran Martell](https://fantasora.com/char/185) (75.5 pps)
+### 8: [Doran Martell](https://fantasora.com/char/185) (75.5 pps)
 <details>
 <summary> 151 total points in 2 seasons </summary>
 <details>
@@ -314,7 +350,31 @@
 
 </details>
 
-### 8: [Hodor](https://fantasora.com/char/10) (72.0 pps)
+### 9: [Viserion](https://fantasora.com/char/390) (73.0 pps)
+<details>
+<summary> 219 total points in 3 seasons </summary>
+<details>
+<summary>Season 7: 202</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/8/char/390)  
+**Kills** : 202  
+</details>
+<details>
+<summary>Season 6: 13</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/7/char/390)  
+**Kills** : 13  
+</details>
+<details>
+<summary>Season 2: 4</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/3/char/390)  
+**Kills** : 4  
+</details>
+
+</details>
+
+### 10: [Hodor](https://fantasora.com/char/10) (72.0 pps)
 <details>
 <summary> 288 total points in 4 seasons </summary>
 <details>
@@ -348,7 +408,7 @@
 
 </details>
 
-### 9: [Euron Greyjoy](https://fantasora.com/char/216) (70.5 pps)
+### 11: [Euron Greyjoy](https://fantasora.com/char/216) (70.5 pps)
 <details>
 <summary> 141 total points in 2 seasons </summary>
 <details>
@@ -371,7 +431,7 @@
 
 </details>
 
-### 10: [Ramsay Bolton](https://fantasora.com/char/87) (68.7 pps)
+### 12: [Ramsay Bolton](https://fantasora.com/char/87) (68.7 pps)
 <details>
 <summary> 206 total points in 3 seasons </summary>
 <details>
@@ -408,7 +468,7 @@
 
 </details>
 
-### 11: [Sandor Clegane (The Hound)](https://fantasora.com/char/81) (62.6 pps)
+### 13: [Sandor Clegane (The Hound)](https://fantasora.com/char/81) (62.6 pps)
 <details>
 <summary> 313 total points in 5 seasons </summary>
 <details>
@@ -459,7 +519,7 @@
 
 </details>
 
-### 12: [Jaime Lannister](https://fantasora.com/char/19) (58.0 pps)
+### 14: [Jaime Lannister](https://fantasora.com/char/19) (58.0 pps)
 <details>
 <summary> 348 total points in 6 seasons </summary>
 <details>
@@ -523,7 +583,7 @@
 
 </details>
 
-### 13: [Tormund Giantsbane](https://fantasora.com/char/67) (56.8 pps)
+### 15: [Tormund Giantsbane](https://fantasora.com/char/67) (56.8 pps)
 <details>
 <summary> 227 total points in 4 seasons </summary>
 <details>
@@ -562,7 +622,7 @@
 
 </details>
 
-### 14: [Leaf](https://fantasora.com/char/133) (55.5 pps)
+### 16: [Leaf](https://fantasora.com/char/133) (55.5 pps)
 <details>
 <summary> 111 total points in 2 seasons </summary>
 <details>
@@ -582,7 +642,37 @@
 
 </details>
 
-### 15: [Arya Stark](https://fantasora.com/char/6) (54.0 pps)
+### 17: [Rhaegal](https://fantasora.com/char/391) (55.2 pps)
+<details>
+<summary> 221 total points in 4 seasons </summary>
+<details>
+<summary>Season 7: 202</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/8/char/391)  
+**Kills** : 202  
+</details>
+<details>
+<summary>Season 6: 13</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/7/char/391)  
+**Kills** : 13  
+</details>
+<details>
+<summary>Season 5: 2</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/6/char/391)  
+**Kills** : 2  
+</details>
+<details>
+<summary>Season 2: 4</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/3/char/391)  
+**Kills** : 4  
+</details>
+
+</details>
+
+### 18: [Arya Stark](https://fantasora.com/char/6) (54.0 pps)
 <details>
 <summary> 324 total points in 6 seasons </summary>
 <details>
@@ -640,7 +730,7 @@
 
 </details>
 
-### 16: [Bronn](https://fantasora.com/char/23) (52.0 pps)
+### 19: [Bronn](https://fantasora.com/char/23) (52.0 pps)
 <details>
 <summary> 312 total points in 6 seasons </summary>
 <details>
@@ -696,7 +786,7 @@
 
 </details>
 
-### 17: [Daario Naharis](https://fantasora.com/char/36) (48.7 pps)
+### 20: [Daario Naharis](https://fantasora.com/char/36) (48.7 pps)
 <details>
 <summary> 146 total points in 3 seasons </summary>
 <details>
@@ -730,7 +820,7 @@
 
 </details>
 
-### 18: [Stannis Baratheon](https://fantasora.com/char/51) (47.5 pps)
+### 21: [Stannis Baratheon](https://fantasora.com/char/51) (47.5 pps)
 <details>
 <summary> 95 total points in 2 seasons </summary>
 <details>
@@ -755,7 +845,7 @@
 
 </details>
 
-### 19: [Pyat Pree (Warlock)](https://fantasora.com/char/99) (47.0 pps)
+### 22: [Pyat Pree (Warlock)](https://fantasora.com/char/99) (47.0 pps)
 <details>
 <summary> 47 total points in 1 season </summary>
 <details>
@@ -769,7 +859,7 @@
 
 </details>
 
-### 20: [Grey Worm](https://fantasora.com/char/38) (46.7 pps)
+### 23: [Grey Worm](https://fantasora.com/char/38) (46.7 pps)
 <details>
 <summary> 140 total points in 3 seasons </summary>
 <details>
@@ -799,7 +889,7 @@
 
 </details>
 
-### 21: [Oberyn Martell](https://fantasora.com/char/90) (46.0 pps)
+### 24: [Oberyn Martell](https://fantasora.com/char/90) (46.0 pps)
 <details>
 <summary> 46 total points in 1 season </summary>
 <details>
@@ -815,7 +905,7 @@
 
 </details>
 
-### 22: [Beric Dondarrion](https://fantasora.com/char/101) (45.0 pps)
+### 25: [Beric Dondarrion](https://fantasora.com/char/101) (45.0 pps)
 <details>
 <summary> 90 total points in 2 seasons </summary>
 <details>
@@ -836,7 +926,7 @@
 
 </details>
 
-### 23: [Wun Weg Wun Dar Wun](https://fantasora.com/char/211) (44.5 pps)
+### 26: [Wun Weg Wun Dar Wun](https://fantasora.com/char/211) (44.5 pps)
 <details>
 <summary> 89 total points in 2 seasons </summary>
 <details>
@@ -857,7 +947,7 @@
 
 </details>
 
-### 24: [Ros](https://fantasora.com/char/106) (44.0 pps)
+### 27: [Ros](https://fantasora.com/char/106) (44.0 pps)
 <details>
 <summary> 88 total points in 2 seasons </summary>
 <details>
@@ -877,7 +967,7 @@
 
 </details>
 
-### 25: [Joffrey Baratheon](https://fantasora.com/char/21) (40.3 pps)
+### 28: [Joffrey Baratheon](https://fantasora.com/char/21) (40.3 pps)
 <details>
 <summary> 121 total points in 3 seasons </summary>
 <details>
@@ -909,7 +999,7 @@
 
 </details>
 
-### 26: [High Sparrow](https://fantasora.com/char/192) (36.5 pps)
+### 29: [High Sparrow](https://fantasora.com/char/192) (36.5 pps)
 <details>
 <summary> 73 total points in 2 seasons </summary>
 <details>
@@ -931,7 +1021,7 @@
 
 </details>
 
-### 27: [Eddard Stark](https://fantasora.com/char/1) (36.0 pps)
+### 30: [Eddard Stark](https://fantasora.com/char/1) (36.0 pps)
 <details>
 <summary> 108 total points in 3 seasons </summary>
 <details>
@@ -961,7 +1051,7 @@
 
 </details>
 
-### 28: [Archmaester Ebrose](https://fantasora.com/char/263) (36.0 pps)
+### 31: [Archmaester Ebrose](https://fantasora.com/char/263) (36.0 pps)
 <details>
 <summary> 36 total points in 1 season </summary>
 <details>
@@ -975,7 +1065,7 @@
 
 </details>
 
-### 29: [Ygritte](https://fantasora.com/char/65) (35.5 pps)
+### 32: [Ygritte](https://fantasora.com/char/65) (35.5 pps)
 <details>
 <summary> 71 total points in 2 seasons </summary>
 <details>
@@ -998,7 +1088,7 @@
 
 </details>
 
-### 30: [Jorah Mormont](https://fantasora.com/char/32) (35.2 pps)
+### 33: [Jorah Mormont](https://fantasora.com/char/32) (35.2 pps)
 <details>
 <summary> 211 total points in 6 seasons </summary>
 <details>
@@ -1052,7 +1142,7 @@
 
 </details>
 
-### 31: [Theon Greyjoy](https://fantasora.com/char/61) (35.2 pps)
+### 34: [Theon Greyjoy](https://fantasora.com/char/61) (35.2 pps)
 <details>
 <summary> 211 total points in 6 seasons </summary>
 <details>
@@ -1107,7 +1197,7 @@
 
 </details>
 
-### 32: [Robb Stark](https://fantasora.com/char/2) (33.5 pps)
+### 35: [Robb Stark](https://fantasora.com/char/2) (33.5 pps)
 <details>
 <summary> 67 total points in 2 seasons </summary>
 <details>
@@ -1131,7 +1221,7 @@
 
 </details>
 
-### 33: [Smalljon Umber](https://fantasora.com/char/230) (33.0 pps)
+### 36: [Smalljon Umber](https://fantasora.com/char/230) (33.0 pps)
 <details>
 <summary> 33 total points in 1 season </summary>
 <details>
@@ -1146,7 +1236,7 @@
 
 </details>
 
-### 34: [Armeca](https://fantasora.com/char/153) (32.5 pps)
+### 37: [Armeca](https://fantasora.com/char/153) (32.5 pps)
 <details>
 <summary> 65 total points in 2 seasons </summary>
 <details>
@@ -1164,7 +1254,7 @@
 
 </details>
 
-### 35: [Davos Seaworth](https://fantasora.com/char/50) (32.2 pps)
+### 38: [Davos Seaworth](https://fantasora.com/char/50) (32.2 pps)
 <details>
 <summary> 129 total points in 4 seasons </summary>
 <details>
@@ -1198,7 +1288,7 @@
 
 </details>
 
-### 36: [Viserys Targaryen](https://fantasora.com/char/33) (30.0 pps)
+### 39: [Viserys Targaryen](https://fantasora.com/char/33) (30.0 pps)
 <details>
 <summary> 30 total points in 1 season </summary>
 <details>
@@ -1214,7 +1304,7 @@
 
 </details>
 
-### 37: [Daisy](https://fantasora.com/char/184) (30.0 pps)
+### 40: [Daisy](https://fantasora.com/char/184) (30.0 pps)
 <details>
 <summary> 30 total points in 1 season </summary>
 <details>
@@ -1226,7 +1316,7 @@
 
 </details>
 
-### 38: [Styr, Magnar of Thenn](https://fantasora.com/char/71) (30.0 pps)
+### 41: [Styr, Magnar of Thenn](https://fantasora.com/char/71) (30.0 pps)
 <details>
 <summary> 30 total points in 1 season </summary>
 <details>
@@ -1240,7 +1330,7 @@
 
 </details>
 
-### 39: [Tywin Lannister](https://fantasora.com/char/20) (29.3 pps)
+### 42: [Tywin Lannister](https://fantasora.com/char/20) (29.3 pps)
 <details>
 <summary> 88 total points in 3 seasons </summary>
 <details>
@@ -1270,7 +1360,7 @@
 
 </details>
 
-### 40: [Sansa Stark](https://fantasora.com/char/5) (28.5 pps)
+### 43: [Sansa Stark](https://fantasora.com/char/5) (28.5 pps)
 <details>
 <summary> 171 total points in 6 seasons </summary>
 <details>
@@ -1326,7 +1416,7 @@
 
 </details>
 
-### 41: [Talisa Maegyr](https://fantasora.com/char/24) (28.0 pps)
+### 44: [Talisa Maegyr](https://fantasora.com/char/24) (28.0 pps)
 <details>
 <summary> 28 total points in 1 season </summary>
 <details>
@@ -1343,7 +1433,7 @@
 
 </details>
 
-### 42: [Melisandre](https://fantasora.com/char/52) (27.4 pps)
+### 45: [Melisandre](https://fantasora.com/char/52) (27.4 pps)
 <details>
 <summary> 137 total points in 5 seasons </summary>
 <details>
@@ -1391,7 +1481,7 @@
 
 </details>
 
-### 43: [Amory Lorch](https://fantasora.com/char/30) (27.0 pps)
+### 46: [Amory Lorch](https://fantasora.com/char/30) (27.0 pps)
 <details>
 <summary> 27 total points in 1 season </summary>
 <details>
@@ -1405,7 +1495,7 @@
 
 </details>
 
-### 44: [Samwell Tarly](https://fantasora.com/char/40) (26.5 pps)
+### 47: [Samwell Tarly](https://fantasora.com/char/40) (26.5 pps)
 <details>
 <summary> 159 total points in 6 seasons </summary>
 <details>
@@ -1461,7 +1551,7 @@
 
 </details>
 
-### 45: [Brynden Tully (Blackfish)](https://fantasora.com/char/94) (26.0 pps)
+### 48: [Brynden Tully (Blackfish)](https://fantasora.com/char/94) (26.0 pps)
 <details>
 <summary> 26 total points in 1 season </summary>
 <details>
@@ -1475,7 +1565,7 @@
 
 </details>
 
-### 46: [The Waif](https://fantasora.com/char/248) (26.0 pps)
+### 49: [The Waif](https://fantasora.com/char/248) (26.0 pps)
 <details>
 <summary> 26 total points in 1 season </summary>
 <details>
@@ -1488,7 +1578,7 @@
 
 </details>
 
-### 47: [Varys](https://fantasora.com/char/82) (25.3 pps)
+### 50: [Varys](https://fantasora.com/char/82) (25.3 pps)
 <details>
 <summary> 152 total points in 6 seasons </summary>
 <details>
@@ -1542,7 +1632,7 @@
 
 </details>
 
-### 48: [Olenna Redwyne (Grandma Tyrell)](https://fantasora.com/char/59) (25.2 pps)
+### 51: [Olenna Redwyne (Grandma Tyrell)](https://fantasora.com/char/59) (25.2 pps)
 <details>
 <summary> 101 total points in 4 seasons </summary>
 <details>
@@ -1577,7 +1667,7 @@
 
 </details>
 
-### 49: [Xaro Xhoan Daxos (Qarth)](https://fantasora.com/char/98) (25.0 pps)
+### 52: [Xaro Xhoan Daxos (Qarth)](https://fantasora.com/char/98) (25.0 pps)
 <details>
 <summary> 25 total points in 1 season </summary>
 <details>
@@ -1592,7 +1682,7 @@
 
 </details>
 
-### 50: [Ellaria Sand](https://fantasora.com/char/91) (25.0 pps)
+### 53: [Ellaria Sand](https://fantasora.com/char/91) (25.0 pps)
 <details>
 <summary> 100 total points in 4 seasons </summary>
 <details>
@@ -1630,7 +1720,7 @@
 
 </details>
 
-### 51: [Karsi](https://fantasora.com/char/209) (25.0 pps)
+### 54: [Karsi](https://fantasora.com/char/209) (25.0 pps)
 <details>
 <summary> 25 total points in 1 season </summary>
 <details>
@@ -1644,7 +1734,7 @@
 
 </details>
 
-### 52: [Renly Baratheon](https://fantasora.com/char/56) (24.5 pps)
+### 55: [Renly Baratheon](https://fantasora.com/char/56) (24.5 pps)
 <details>
 <summary> 49 total points in 2 seasons </summary>
 <details>
@@ -1667,7 +1757,7 @@
 
 </details>
 
-### 53: [Bran Stark](https://fantasora.com/char/7) (24.4 pps)
+### 56: [Bran Stark](https://fantasora.com/char/7) (24.4 pps)
 <details>
 <summary> 122 total points in 5 seasons </summary>
 <details>
@@ -1710,7 +1800,7 @@
 
 </details>
 
-### 54: [Yara Greyjoy](https://fantasora.com/char/63) (24.2 pps)
+### 57: [Yara Greyjoy](https://fantasora.com/char/63) (24.2 pps)
 <details>
 <summary> 97 total points in 4 seasons </summary>
 <details>
@@ -1747,7 +1837,7 @@
 
 </details>
 
-### 55: [Lady Crane (Cersei Actress)](https://fantasora.com/char/240) (24.0 pps)
+### 58: [Lady Crane (Cersei Actress)](https://fantasora.com/char/240) (24.0 pps)
 <details>
 <summary> 24 total points in 1 season </summary>
 <details>
@@ -1764,7 +1854,7 @@
 
 </details>
 
-### 56: [Petyr Baelish (Littlefinger)](https://fantasora.com/char/79) (23.2 pps)
+### 59: [Petyr Baelish (Littlefinger)](https://fantasora.com/char/79) (23.2 pps)
 <details>
 <summary> 139 total points in 6 seasons </summary>
 <details>
@@ -1819,7 +1909,7 @@
 
 </details>
 
-### 57: [Jaqen H'ghar](https://fantasora.com/char/105) (23.0 pps)
+### 60: [Jaqen H'ghar](https://fantasora.com/char/105) (23.0 pps)
 <details>
 <summary> 69 total points in 3 seasons </summary>
 <details>
@@ -1849,7 +1939,7 @@
 
 </details>
 
-### 58: [Mirri Maz Duur](https://fantasora.com/char/100) (22.0 pps)
+### 61: [Mirri Maz Duur](https://fantasora.com/char/100) (22.0 pps)
 <details>
 <summary> 22 total points in 1 season </summary>
 <details>
@@ -1862,7 +1952,7 @@
 
 </details>
 
-### 59: [Myranda](https://fantasora.com/char/131) (22.0 pps)
+### 62: [Myranda](https://fantasora.com/char/131) (22.0 pps)
 <details>
 <summary> 44 total points in 2 seasons </summary>
 <details>
@@ -1883,7 +1973,7 @@
 
 </details>
 
-### 60: [Shae](https://fantasora.com/char/22) (21.3 pps)
+### 63: [Shae](https://fantasora.com/char/22) (21.3 pps)
 <details>
 <summary> 64 total points in 3 seasons </summary>
 <details>
@@ -1912,7 +2002,7 @@
 
 </details>
 
-### 61: [Catelyn Stark](https://fantasora.com/char/4) (21.0 pps)
+### 64: [Catelyn Stark](https://fantasora.com/char/4) (21.0 pps)
 <details>
 <summary> 42 total points in 2 seasons </summary>
 <details>
@@ -1932,7 +2022,7 @@
 
 </details>
 
-### 62: [Meryn Trant](https://fantasora.com/char/75) (21.0 pps)
+### 65: [Meryn Trant](https://fantasora.com/char/75) (21.0 pps)
 <details>
 <summary> 21 total points in 1 season </summary>
 <details>
@@ -1948,7 +2038,7 @@
 
 </details>
 
-### 63: [Child of the Forest](https://fantasora.com/char/239) (21.0 pps)
+### 66: [Child of the Forest](https://fantasora.com/char/239) (21.0 pps)
 <details>
 <summary> 21 total points in 1 season </summary>
 <details>
@@ -1961,7 +2051,7 @@
 
 </details>
 
-### 64: [Brienne of Tarth](https://fantasora.com/char/9) (20.6 pps)
+### 67: [Brienne of Tarth](https://fantasora.com/char/9) (20.6 pps)
 <details>
 <summary> 103 total points in 5 seasons </summary>
 <details>
@@ -2005,7 +2095,7 @@
 
 </details>
 
-### 65: [Daughter of the Myraham's Captain](https://fantasora.com/char/168) (20.0 pps)
+### 68: [Daughter of the Myraham's Captain](https://fantasora.com/char/168) (20.0 pps)
 <details>
 <summary> 20 total points in 1 season </summary>
 <details>
@@ -2017,7 +2107,7 @@
 
 </details>
 
-### 66: [Maester Cressen](https://fantasora.com/char/162) (20.0 pps)
+### 69: [Maester Cressen](https://fantasora.com/char/162) (20.0 pps)
 <details>
 <summary> 20 total points in 1 season </summary>
 <details>
@@ -2031,7 +2121,7 @@
 
 </details>
 
-### 67: [Bianca (Sansa actress)](https://fantasora.com/char/245) (20.0 pps)
+### 70: [Bianca (Sansa actress)](https://fantasora.com/char/245) (20.0 pps)
 <details>
 <summary> 20 total points in 1 season </summary>
 <details>
@@ -2043,7 +2133,7 @@
 
 </details>
 
-### 68: [Randyll Tarly](https://fantasora.com/char/221) (20.0 pps)
+### 71: [Randyll Tarly](https://fantasora.com/char/221) (20.0 pps)
 <details>
 <summary> 40 total points in 2 seasons </summary>
 <details>
@@ -2065,7 +2155,7 @@
 
 </details>
 
-### 69: [Missandei](https://fantasora.com/char/37) (19.8 pps)
+### 72: [Missandei](https://fantasora.com/char/37) (19.8 pps)
 <details>
 <summary> 79 total points in 4 seasons </summary>
 <details>
@@ -2100,7 +2190,7 @@
 
 </details>
 
-### 70: [Thoros of Myr](https://fantasora.com/char/102) (19.0 pps)
+### 73: [Thoros of Myr](https://fantasora.com/char/102) (19.0 pps)
 <details>
 <summary> 38 total points in 2 seasons </summary>
 <details>
@@ -2123,7 +2213,7 @@
 
 </details>
 
-### 71: [Alliser Thorne](https://fantasora.com/char/43) (18.0 pps)
+### 74: [Alliser Thorne](https://fantasora.com/char/43) (18.0 pps)
 <details>
 <summary> 72 total points in 4 seasons </summary>
 <details>
@@ -2160,7 +2250,7 @@
 
 </details>
 
-### 72: [Yoren](https://fantasora.com/char/48) (18.0 pps)
+### 75: [Yoren](https://fantasora.com/char/48) (18.0 pps)
 <details>
 <summary> 36 total points in 2 seasons </summary>
 <details>
@@ -2181,7 +2271,7 @@
 
 </details>
 
-### 73: [Margaery Tyrell](https://fantasora.com/char/57) (17.8 pps)
+### 76: [Margaery Tyrell](https://fantasora.com/char/57) (17.8 pps)
 <details>
 <summary> 71 total points in 4 seasons </summary>
 <details>
@@ -2215,7 +2305,7 @@
 
 </details>
 
-### 74: [White Walker (Night King)](https://fantasora.com/char/130) (17.8 pps)
+### 77: [White Walker (Night King)](https://fantasora.com/char/130) (17.8 pps)
 <details>
 <summary> 71 total points in 4 seasons </summary>
 <details>
@@ -2248,7 +2338,7 @@
 
 </details>
 
-### 75: [Benjen Stark](https://fantasora.com/char/3) (17.7 pps)
+### 78: [Benjen Stark](https://fantasora.com/char/3) (17.7 pps)
 <details>
 <summary> 53 total points in 3 seasons </summary>
 <details>
@@ -2274,7 +2364,7 @@
 
 </details>
 
-### 76: [Olyvar](https://fantasora.com/char/126) (17.5 pps)
+### 79: [Olyvar](https://fantasora.com/char/126) (17.5 pps)
 <details>
 <summary> 35 total points in 2 seasons </summary>
 <details>
@@ -2295,7 +2385,7 @@
 
 </details>
 
-### 77: [Lysa Tully](https://fantasora.com/char/83) (17.0 pps)
+### 80: [Lysa Tully](https://fantasora.com/char/83) (17.0 pps)
 <details>
 <summary> 34 total points in 2 seasons </summary>
 <details>
@@ -2318,7 +2408,7 @@
 
 </details>
 
-### 78: [Osha](https://fantasora.com/char/11) (17.0 pps)
+### 81: [Osha](https://fantasora.com/char/11) (17.0 pps)
 <details>
 <summary> 51 total points in 3 seasons </summary>
 <details>
@@ -2345,7 +2435,7 @@
 
 </details>
 
-### 79: [Craster](https://fantasora.com/char/70) (17.0 pps)
+### 82: [Craster](https://fantasora.com/char/70) (17.0 pps)
 <details>
 <summary> 17 total points in 1 season </summary>
 <details>
@@ -2359,7 +2449,7 @@
 
 </details>
 
-### 80: [Karl Tanner](https://fantasora.com/char/47) (17.0 pps)
+### 83: [Karl Tanner](https://fantasora.com/char/47) (17.0 pps)
 <details>
 <summary> 17 total points in 1 season </summary>
 <details>
@@ -2373,7 +2463,7 @@
 
 </details>
 
-### 81: [Mag Mar Tun Doh Weg (Giant)](https://fantasora.com/char/113) (17.0 pps)
+### 84: [Mag Mar Tun Doh Weg (Giant)](https://fantasora.com/char/113) (17.0 pps)
 <details>
 <summary> 17 total points in 1 season </summary>
 <details>
@@ -2386,7 +2476,7 @@
 
 </details>
 
-### 82: [Khal Moro](https://fantasora.com/char/225) (17.0 pps)
+### 85: [Khal Moro](https://fantasora.com/char/225) (17.0 pps)
 <details>
 <summary> 17 total points in 1 season </summary>
 <details>
@@ -2400,7 +2490,7 @@
 
 </details>
 
-### 83: [Gendry](https://fantasora.com/char/80) (16.3 pps)
+### 86: [Gendry](https://fantasora.com/char/80) (16.3 pps)
 <details>
 <summary> 49 total points in 3 seasons </summary>
 <details>
@@ -2432,7 +2522,7 @@
 
 </details>
 
-### 84: [Clarenzo (Joffrey Actor)](https://fantasora.com/char/242) (16.0 pps)
+### 87: [Clarenzo (Joffrey Actor)](https://fantasora.com/char/242) (16.0 pps)
 <details>
 <summary> 16 total points in 1 season </summary>
 <details>
@@ -2445,7 +2535,7 @@
 
 </details>
 
-### 85: [Ser Arthur Dayne](https://fantasora.com/char/223) (16.0 pps)
+### 88: [Ser Arthur Dayne](https://fantasora.com/char/223) (16.0 pps)
 <details>
 <summary> 16 total points in 1 season </summary>
 <details>
@@ -2458,7 +2548,7 @@
 
 </details>
 
-### 86: [Barristan Selmy](https://fantasora.com/char/35) (15.7 pps)
+### 89: [Barristan Selmy](https://fantasora.com/char/35) (15.7 pps)
 <details>
 <summary> 47 total points in 3 seasons </summary>
 <details>
@@ -2484,7 +2574,7 @@
 
 </details>
 
-### 87: [Ilyn Payne](https://fantasora.com/char/76) (15.0 pps)
+### 90: [Ilyn Payne](https://fantasora.com/char/76) (15.0 pps)
 <details>
 <summary> 15 total points in 1 season </summary>
 <details>
@@ -2496,7 +2586,7 @@
 
 </details>
 
-### 88: [Qotho](https://fantasora.com/char/139) (15.0 pps)
+### 91: [Qotho](https://fantasora.com/char/139) (15.0 pps)
 <details>
 <summary> 15 total points in 1 season </summary>
 <details>
@@ -2510,7 +2600,7 @@
 
 </details>
 
-### 89: [White Walker (Samurai, formerly mislabeled Hobo)](https://fantasora.com/char/129) (15.0 pps)
+### 92: [White Walker (Samurai, formerly mislabeled Hobo)](https://fantasora.com/char/129) (15.0 pps)
 <details>
 <summary> 15 total points in 1 season </summary>
 <details>
@@ -2523,7 +2613,7 @@
 
 </details>
 
-### 90: [Balon Greyjoy](https://fantasora.com/char/62) (14.5 pps)
+### 93: [Balon Greyjoy](https://fantasora.com/char/62) (14.5 pps)
 <details>
 <summary> 29 total points in 2 seasons </summary>
 <details>
@@ -2544,7 +2634,7 @@
 
 </details>
 
-### 91: [Tommen Baratheon](https://fantasora.com/char/77) (14.5 pps)
+### 94: [Tommen Baratheon](https://fantasora.com/char/77) (14.5 pps)
 <details>
 <summary> 58 total points in 4 seasons </summary>
 <details>
@@ -2579,7 +2669,7 @@
 
 </details>
 
-### 92: [Walder Frey](https://fantasora.com/char/93) (14.3 pps)
+### 95: [Walder Frey](https://fantasora.com/char/93) (14.3 pps)
 <details>
 <summary> 43 total points in 3 seasons </summary>
 <details>
@@ -2606,7 +2696,7 @@
 
 </details>
 
-### 93: [Doreah](https://fantasora.com/char/135) (14.0 pps)
+### 96: [Doreah](https://fantasora.com/char/135) (14.0 pps)
 <details>
 <summary> 28 total points in 2 seasons </summary>
 <details>
@@ -2626,7 +2716,7 @@
 
 </details>
 
-### 94: [Obara Sand](https://fantasora.com/char/191) (14.0 pps)
+### 97: [Obara Sand](https://fantasora.com/char/191) (14.0 pps)
 <details>
 <summary> 42 total points in 3 seasons </summary>
 <details>
@@ -2656,7 +2746,7 @@
 
 </details>
 
-### 95: [Podrick Payne](https://fantasora.com/char/27) (13.8 pps)
+### 98: [Podrick Payne](https://fantasora.com/char/27) (13.8 pps)
 <details>
 <summary> 55 total points in 4 seasons </summary>
 <details>
@@ -2693,7 +2783,7 @@
 
 </details>
 
-### 96: [Roose Bolton](https://fantasora.com/char/86) (13.3 pps)
+### 99: [Roose Bolton](https://fantasora.com/char/86) (13.3 pps)
 <details>
 <summary> 40 total points in 3 seasons </summary>
 <details>
@@ -2721,7 +2811,7 @@
 
 </details>
 
-### 97: [Grand Maester Pycelle](https://fantasora.com/char/74) (13.0 pps)
+### 100: [Grand Maester Pycelle](https://fantasora.com/char/74) (13.0 pps)
 <details>
 <summary> 52 total points in 4 seasons </summary>
 <details>
@@ -2756,7 +2846,7 @@
 
 </details>
 
-### 98: [Dagmer Cleftjaw](https://fantasora.com/char/64) (13.0 pps)
+### 101: [Dagmer Cleftjaw](https://fantasora.com/char/64) (13.0 pps)
 <details>
 <summary> 13 total points in 1 season </summary>
 <details>
@@ -2769,7 +2859,7 @@
 
 </details>
 
-### 99: [Polliver](https://fantasora.com/char/29) (13.0 pps)
+### 102: [Polliver](https://fantasora.com/char/29) (13.0 pps)
 <details>
 <summary> 26 total points in 2 seasons </summary>
 <details>
@@ -2790,7 +2880,7 @@
 
 </details>
 
-### 100: [Ser Mandon Moore](https://fantasora.com/char/181) (13.0 pps)
+### 103: [Ser Mandon Moore](https://fantasora.com/char/181) (13.0 pps)
 <details>
 <summary> 13 total points in 1 season </summary>
 <details>
@@ -2804,7 +2894,7 @@
 
 </details>
 
-### 101: [Qyburn](https://fantasora.com/char/72) (13.0 pps)
+### 104: [Qyburn](https://fantasora.com/char/72) (13.0 pps)
 <details>
 <summary> 39 total points in 3 seasons </summary>
 <details>
@@ -2832,7 +2922,7 @@
 
 </details>
 
-### 102: [Gatins](https://fantasora.com/char/212) (13.0 pps)
+### 105: [Gatins](https://fantasora.com/char/212) (13.0 pps)
 <details>
 <summary> 13 total points in 1 season </summary>
 <details>
@@ -2846,7 +2936,7 @@
 
 </details>
 
-### 103: [Razdal mo Eraz](https://fantasora.com/char/254) (13.0 pps)
+### 106: [Razdal mo Eraz](https://fantasora.com/char/254) (13.0 pps)
 <details>
 <summary> 13 total points in 1 season </summary>
 <details>
@@ -2860,7 +2950,7 @@
 
 </details>
 
-### 104: [Tyene Sand](https://fantasora.com/char/190) (12.7 pps)
+### 107: [Tyene Sand](https://fantasora.com/char/190) (12.7 pps)
 <details>
 <summary> 38 total points in 3 seasons </summary>
 <details>
@@ -2888,7 +2978,7 @@
 
 </details>
 
-### 105: [Eddison Tollett](https://fantasora.com/char/45) (12.2 pps)
+### 108: [Eddison Tollett](https://fantasora.com/char/45) (12.2 pps)
 <details>
 <summary> 61 total points in 5 seasons </summary>
 <details>
@@ -2928,7 +3018,7 @@
 
 </details>
 
-### 106: [Qhorin Halfhand](https://fantasora.com/char/49) (12.0 pps)
+### 109: [Qhorin Halfhand](https://fantasora.com/char/49) (12.0 pps)
 <details>
 <summary> 12 total points in 1 season </summary>
 <details>
@@ -2942,7 +3032,7 @@
 
 </details>
 
-### 107: [Loboda](https://fantasora.com/char/200) (12.0 pps)
+### 110: [Loboda](https://fantasora.com/char/200) (12.0 pps)
 <details>
 <summary> 12 total points in 1 season </summary>
 <details>
@@ -2955,7 +3045,7 @@
 
 </details>
 
-### 108: [Edmure Tully](https://fantasora.com/char/92) (12.0 pps)
+### 111: [Edmure Tully](https://fantasora.com/char/92) (12.0 pps)
 <details>
 <summary> 12 total points in 1 season </summary>
 <details>
@@ -2967,7 +3057,7 @@
 
 </details>
 
-### 109: [Grenn](https://fantasora.com/char/44) (11.3 pps)
+### 112: [Grenn](https://fantasora.com/char/44) (11.3 pps)
 <details>
 <summary> 34 total points in 3 seasons </summary>
 <details>
@@ -2994,7 +3084,7 @@
 
 </details>
 
-### 110: [Olly](https://fantasora.com/char/132) (11.3 pps)
+### 113: [Olly](https://fantasora.com/char/132) (11.3 pps)
 <details>
 <summary> 34 total points in 3 seasons </summary>
 <details>
@@ -3019,7 +3109,7 @@
 
 </details>
 
-### 111: [Jory Cassel](https://fantasora.com/char/16) (11.0 pps)
+### 114: [Jory Cassel](https://fantasora.com/char/16) (11.0 pps)
 <details>
 <summary> 11 total points in 1 season </summary>
 <details>
@@ -3032,7 +3122,7 @@
 
 </details>
 
-### 112: [Jojen Reed](https://fantasora.com/char/12) (11.0 pps)
+### 115: [Jojen Reed](https://fantasora.com/char/12) (11.0 pps)
 <details>
 <summary> 11 total points in 1 season </summary>
 <details>
@@ -3045,7 +3135,7 @@
 
 </details>
 
-### 113: [Meera Reed](https://fantasora.com/char/13) (11.0 pps)
+### 116: [Meera Reed](https://fantasora.com/char/13) (11.0 pps)
 <details>
 <summary> 33 total points in 3 seasons </summary>
 <details>
@@ -3069,7 +3159,7 @@
 
 </details>
 
-### 114: [High Septon of the Faith (S3)](https://fantasora.com/char/178) (11.0 pps)
+### 117: [High Septon of the Faith (S3)](https://fantasora.com/char/178) (11.0 pps)
 <details>
 <summary> 11 total points in 1 season </summary>
 <details>
@@ -3082,7 +3172,7 @@
 
 </details>
 
-### 115: [Myrcella Baratheon](https://fantasora.com/char/78) (11.0 pps)
+### 118: [Myrcella Baratheon](https://fantasora.com/char/78) (11.0 pps)
 <details>
 <summary> 11 total points in 1 season </summary>
 <details>
@@ -3096,7 +3186,7 @@
 
 </details>
 
-### 116: [Dontos Hollard](https://fantasora.com/char/124) (10.5 pps)
+### 119: [Dontos Hollard](https://fantasora.com/char/124) (10.5 pps)
 <details>
 <summary> 21 total points in 2 seasons </summary>
 <details>
@@ -3117,7 +3207,7 @@
 
 </details>
 
-### 117: [Gregor Clegane (The Mountain)](https://fantasora.com/char/28) (10.0 pps)
+### 120: [Gregor Clegane (The Mountain)](https://fantasora.com/char/28) (10.0 pps)
 <details>
 <summary> 40 total points in 4 seasons </summary>
 <details>
@@ -3147,7 +3237,7 @@
 
 </details>
 
-### 118: [Lancel Lannister](https://fantasora.com/char/26) (10.0 pps)
+### 121: [Lancel Lannister](https://fantasora.com/char/26) (10.0 pps)
 <details>
 <summary> 30 total points in 3 seasons </summary>
 <details>
@@ -3173,7 +3263,7 @@
 
 </details>
 
-### 119: [Mago](https://fantasora.com/char/140) (10.0 pps)
+### 122: [Mago](https://fantasora.com/char/140) (10.0 pps)
 <details>
 <summary> 10 total points in 1 season </summary>
 <details>
@@ -3186,7 +3276,7 @@
 
 </details>
 
-### 120: [Robin Arryn](https://fantasora.com/char/84) (10.0 pps)
+### 123: [Robin Arryn](https://fantasora.com/char/84) (10.0 pps)
 <details>
 <summary> 20 total points in 2 seasons </summary>
 <details>
@@ -3206,7 +3296,7 @@
 
 </details>
 
-### 121: [Malko](https://fantasora.com/char/196) (10.0 pps)
+### 124: [Malko](https://fantasora.com/char/196) (10.0 pps)
 <details>
 <summary> 10 total points in 1 season </summary>
 <details>
@@ -3220,7 +3310,7 @@
 
 </details>
 
-### 122: [Janos Slynt](https://fantasora.com/char/107) (9.5 pps)
+### 125: [Janos Slynt](https://fantasora.com/char/107) (9.5 pps)
 <details>
 <summary> 38 total points in 4 seasons </summary>
 <details>
@@ -3253,7 +3343,7 @@
 
 </details>
 
-### 123: [Syrio Forel](https://fantasora.com/char/73) (9.0 pps)
+### 126: [Syrio Forel](https://fantasora.com/char/73) (9.0 pps)
 <details>
 <summary> 9 total points in 1 season </summary>
 <details>
@@ -3266,7 +3356,7 @@
 
 </details>
 
-### 124: [Locke](https://fantasora.com/char/88) (9.0 pps)
+### 127: [Locke](https://fantasora.com/char/88) (9.0 pps)
 <details>
 <summary> 9 total points in 1 season </summary>
 <details>
@@ -3279,7 +3369,7 @@
 
 </details>
 
-### 125: [Selyse Baratheon](https://fantasora.com/char/125) (9.0 pps)
+### 128: [Selyse Baratheon](https://fantasora.com/char/125) (9.0 pps)
 <details>
 <summary> 18 total points in 2 seasons </summary>
 <details>
@@ -3298,7 +3388,7 @@
 
 </details>
 
-### 126: [Fat Walda Frey](https://fantasora.com/char/117) (9.0 pps)
+### 129: [Fat Walda Frey](https://fantasora.com/char/117) (9.0 pps)
 <details>
 <summary> 18 total points in 2 seasons </summary>
 <details>
@@ -3317,7 +3407,7 @@
 
 </details>
 
-### 127: [Aggo](https://fantasora.com/char/228) (9.0 pps)
+### 130: [Aggo](https://fantasora.com/char/228) (9.0 pps)
 <details>
 <summary> 9 total points in 1 season </summary>
 <details>
@@ -3331,7 +3421,7 @@
 
 </details>
 
-### 128: [Dickon Tarly](https://fantasora.com/char/219) (9.0 pps)
+### 131: [Dickon Tarly](https://fantasora.com/char/219) (9.0 pps)
 <details>
 <summary> 18 total points in 2 seasons </summary>
 <details>
@@ -3352,7 +3442,7 @@
 
 </details>
 
-### 129: [Gilly](https://fantasora.com/char/68) (8.7 pps)
+### 132: [Gilly](https://fantasora.com/char/68) (8.7 pps)
 <details>
 <summary> 26 total points in 3 seasons </summary>
 <details>
@@ -3379,7 +3469,7 @@
 
 </details>
 
-### 130: [Maester Luwin](https://fantasora.com/char/14) (8.5 pps)
+### 133: [Maester Luwin](https://fantasora.com/char/14) (8.5 pps)
 <details>
 <summary> 17 total points in 2 seasons </summary>
 <details>
@@ -3399,7 +3489,7 @@
 
 </details>
 
-### 131: [Kevan Lannister](https://fantasora.com/char/25) (8.5 pps)
+### 134: [Kevan Lannister](https://fantasora.com/char/25) (8.5 pps)
 <details>
 <summary> 17 total points in 2 seasons </summary>
 <details>
@@ -3420,7 +3510,7 @@
 
 </details>
 
-### 132: [Mace Tyrell](https://fantasora.com/char/58) (8.5 pps)
+### 135: [Mace Tyrell](https://fantasora.com/char/58) (8.5 pps)
 <details>
 <summary> 17 total points in 2 seasons </summary>
 <details>
@@ -3440,7 +3530,7 @@
 
 </details>
 
-### 133: [Yezzan zo Qaggaz (slave trader)](https://fantasora.com/char/188) (8.5 pps)
+### 136: [Yezzan zo Qaggaz (slave trader)](https://fantasora.com/char/188) (8.5 pps)
 <details>
 <summary> 17 total points in 2 seasons </summary>
 <details>
@@ -3459,7 +3549,7 @@
 
 </details>
 
-### 134: [Loras Tyrell](https://fantasora.com/char/60) (8.4 pps)
+### 137: [Loras Tyrell](https://fantasora.com/char/60) (8.4 pps)
 <details>
 <summary> 42 total points in 5 seasons </summary>
 <details>
@@ -3500,7 +3590,7 @@
 
 </details>
 
-### 135: [Nymeria Sand](https://fantasora.com/char/189) (8.3 pps)
+### 138: [Nymeria Sand](https://fantasora.com/char/189) (8.3 pps)
 <details>
 <summary> 25 total points in 3 seasons </summary>
 <details>
@@ -3527,7 +3617,7 @@
 
 </details>
 
-### 136: [Pyp](https://fantasora.com/char/128) (8.0 pps)
+### 139: [Pyp](https://fantasora.com/char/128) (8.0 pps)
 <details>
 <summary> 16 total points in 2 seasons </summary>
 <details>
@@ -3547,7 +3637,7 @@
 
 </details>
 
-### 137: [Rickon Stark](https://fantasora.com/char/8) (8.0 pps)
+### 140: [Rickon Stark](https://fantasora.com/char/8) (8.0 pps)
 <details>
 <summary> 24 total points in 3 seasons </summary>
 <details>
@@ -3571,7 +3661,7 @@
 
 </details>
 
-### 138: [High Septon of the Faith (S2)](https://fantasora.com/char/177) (8.0 pps)
+### 141: [High Septon of the Faith (S2)](https://fantasora.com/char/177) (8.0 pps)
 <details>
 <summary> 8 total points in 1 season </summary>
 <details>
@@ -3584,7 +3674,7 @@
 
 </details>
 
-### 139: [Spice King of Qarth](https://fantasora.com/char/165) (8.0 pps)
+### 142: [Spice King of Qarth](https://fantasora.com/char/165) (8.0 pps)
 <details>
 <summary> 8 total points in 1 season </summary>
 <details>
@@ -3597,7 +3687,7 @@
 
 </details>
 
-### 140: [Septa Unella](https://fantasora.com/char/195) (8.0 pps)
+### 143: [Septa Unella](https://fantasora.com/char/195) (8.0 pps)
 <details>
 <summary> 16 total points in 2 seasons </summary>
 <details>
@@ -3616,7 +3706,7 @@
 
 </details>
 
-### 141: [Izembaro (Robert/Tywin actor)](https://fantasora.com/char/220) (8.0 pps)
+### 144: [Izembaro (Robert/Tywin actor)](https://fantasora.com/char/220) (8.0 pps)
 <details>
 <summary> 8 total points in 1 season </summary>
 <details>
@@ -3629,7 +3719,7 @@
 
 </details>
 
-### 142: [Khal Forzo](https://fantasora.com/char/231) (8.0 pps)
+### 145: [Khal Forzo](https://fantasora.com/char/231) (8.0 pps)
 <details>
 <summary> 8 total points in 1 season </summary>
 <details>
@@ -3642,7 +3732,7 @@
 
 </details>
 
-### 143: [Septon Ray](https://fantasora.com/char/214) (8.0 pps)
+### 146: [Septon Ray](https://fantasora.com/char/214) (8.0 pps)
 <details>
 <summary> 8 total points in 1 season </summary>
 <details>
@@ -3655,7 +3745,7 @@
 
 </details>
 
-### 144: [Lyanna Mormont](https://fantasora.com/char/258) (7.5 pps)
+### 147: [Lyanna Mormont](https://fantasora.com/char/258) (7.5 pps)
 <details>
 <summary> 15 total points in 2 seasons </summary>
 <details>
@@ -3675,7 +3765,7 @@
 
 </details>
 
-### 145: [Maester Aemon](https://fantasora.com/char/42) (7.0 pps)
+### 148: [Maester Aemon](https://fantasora.com/char/42) (7.0 pps)
 <details>
 <summary> 14 total points in 2 seasons </summary>
 <details>
@@ -3694,7 +3784,7 @@
 
 </details>
 
-### 146: [Hot Pie](https://fantasora.com/char/104) (7.0 pps)
+### 149: [Hot Pie](https://fantasora.com/char/104) (7.0 pps)
 <details>
 <summary> 21 total points in 3 seasons </summary>
 <details>
@@ -3719,7 +3809,7 @@
 
 </details>
 
-### 147: [The Lord of Bones (Rattleshirt)](https://fantasora.com/char/180) (7.0 pps)
+### 150: [The Lord of Bones (Rattleshirt)](https://fantasora.com/char/180) (7.0 pps)
 <details>
 <summary> 14 total points in 2 seasons </summary>
 <details>
@@ -3738,7 +3828,7 @@
 
 </details>
 
-### 148: [The Tickler](https://fantasora.com/char/164) (7.0 pps)
+### 151: [The Tickler](https://fantasora.com/char/164) (7.0 pps)
 <details>
 <summary> 7 total points in 1 season </summary>
 <details>
@@ -3751,7 +3841,7 @@
 
 </details>
 
-### 149: [Shireen Baratheon](https://fantasora.com/char/54) (7.0 pps)
+### 152: [Shireen Baratheon](https://fantasora.com/char/54) (7.0 pps)
 <details>
 <summary> 14 total points in 2 seasons </summary>
 <details>
@@ -3771,7 +3861,7 @@
 
 </details>
 
-### 150: [Mossador](https://fantasora.com/char/206) (7.0 pps)
+### 153: [Mossador](https://fantasora.com/char/206) (7.0 pps)
 <details>
 <summary> 7 total points in 1 season </summary>
 <details>
@@ -3784,7 +3874,7 @@
 
 </details>
 
-### 151: [Trystane Martell](https://fantasora.com/char/186) (7.0 pps)
+### 154: [Trystane Martell](https://fantasora.com/char/186) (7.0 pps)
 <details>
 <summary> 14 total points in 2 seasons </summary>
 <details>
@@ -3804,7 +3894,7 @@
 
 </details>
 
-### 152: [Ser Gerold Hightower](https://fantasora.com/char/215) (7.0 pps)
+### 155: [Ser Gerold Hightower](https://fantasora.com/char/215) (7.0 pps)
 <details>
 <summary> 7 total points in 1 season </summary>
 <details>
@@ -3817,7 +3907,7 @@
 
 </details>
 
-### 153: [Harrag (actor: Brendan Cowell)](https://fantasora.com/char/269) (7.0 pps)
+### 156: [Harrag (actor: Brendan Cowell)](https://fantasora.com/char/269) (7.0 pps)
 <details>
 <summary> 7 total points in 1 season </summary>
 <details>
@@ -3831,7 +3921,7 @@
 
 </details>
 
-### 154: [Rodrik Cassel](https://fantasora.com/char/15) (6.5 pps)
+### 157: [Rodrik Cassel](https://fantasora.com/char/15) (6.5 pps)
 <details>
 <summary> 13 total points in 2 seasons </summary>
 <details>
@@ -3850,7 +3940,7 @@
 
 </details>
 
-### 155: [Mance Rayder](https://fantasora.com/char/66) (6.5 pps)
+### 158: [Mance Rayder](https://fantasora.com/char/66) (6.5 pps)
 <details>
 <summary> 13 total points in 2 seasons </summary>
 <details>
@@ -3869,7 +3959,7 @@
 
 </details>
 
-### 156: [Marillion](https://fantasora.com/char/148) (6.0 pps)
+### 159: [Marillion](https://fantasora.com/char/148) (6.0 pps)
 <details>
 <summary> 6 total points in 1 season </summary>
 <details>
@@ -3881,7 +3971,7 @@
 
 </details>
 
-### 157: [Areo Hotah](https://fantasora.com/char/187) (6.0 pps)
+### 160: [Areo Hotah](https://fantasora.com/char/187) (6.0 pps)
 <details>
 <summary> 12 total points in 2 seasons </summary>
 <details>
@@ -3901,7 +3991,7 @@
 
 </details>
 
-### 158: [Tycho Nestoris](https://fantasora.com/char/95) (6.0 pps)
+### 161: [Tycho Nestoris](https://fantasora.com/char/95) (6.0 pps)
 <details>
 <summary> 6 total points in 1 season </summary>
 <details>
@@ -3913,7 +4003,7 @@
 
 </details>
 
-### 159: [Rast](https://fantasora.com/char/46) (5.5 pps)
+### 162: [Rast](https://fantasora.com/char/46) (5.5 pps)
 <details>
 <summary> 11 total points in 2 seasons </summary>
 <details>
@@ -3932,7 +4022,7 @@
 
 </details>
 
-### 160: [Lyanna Stark](https://fantasora.com/char/235) (5.5 pps)
+### 163: [Lyanna Stark](https://fantasora.com/char/235) (5.5 pps)
 <details>
 <summary> 11 total points in 2 seasons </summary>
 <details>
@@ -3951,7 +4041,7 @@
 
 </details>
 
-### 161: [Gared](https://fantasora.com/char/143) (5.0 pps)
+### 164: [Gared](https://fantasora.com/char/143) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -3963,7 +4053,7 @@
 
 </details>
 
-### 162: [Jeor Mormont](https://fantasora.com/char/41) (5.0 pps)
+### 165: [Jeor Mormont](https://fantasora.com/char/41) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -3975,7 +4065,7 @@
 
 </details>
 
-### 163: [Mycah](https://fantasora.com/char/146) (5.0 pps)
+### 166: [Mycah](https://fantasora.com/char/146) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -3987,7 +4077,7 @@
 
 </details>
 
-### 164: [Septa Mordane](https://fantasora.com/char/145) (5.0 pps)
+### 167: [Septa Mordane](https://fantasora.com/char/145) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -3999,7 +4089,7 @@
 
 </details>
 
-### 165: [Ser Hugh of the Vale](https://fantasora.com/char/147) (5.0 pps)
+### 168: [Ser Hugh of the Vale](https://fantasora.com/char/147) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4011,7 +4101,7 @@
 
 </details>
 
-### 166: [Vardis Egen](https://fantasora.com/char/152) (5.0 pps)
+### 169: [Vardis Egen](https://fantasora.com/char/152) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4023,7 +4113,7 @@
 
 </details>
 
-### 167: [Waymar Royce](https://fantasora.com/char/142) (5.0 pps)
+### 170: [Waymar Royce](https://fantasora.com/char/142) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4035,7 +4125,7 @@
 
 </details>
 
-### 168: [Will](https://fantasora.com/char/144) (5.0 pps)
+### 171: [Will](https://fantasora.com/char/144) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4047,7 +4137,7 @@
 
 </details>
 
-### 169: [Alton Lannister](https://fantasora.com/char/169) (5.0 pps)
+### 172: [Alton Lannister](https://fantasora.com/char/169) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4059,7 +4149,7 @@
 
 </details>
 
-### 170: [Drennan](https://fantasora.com/char/175) (5.0 pps)
+### 173: [Drennan](https://fantasora.com/char/175) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4071,7 +4161,7 @@
 
 </details>
 
-### 171: [Irri](https://fantasora.com/char/136) (5.0 pps)
+### 174: [Irri](https://fantasora.com/char/136) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4083,7 +4173,7 @@
 
 </details>
 
-### 172: [Lommy Greenhands](https://fantasora.com/char/127) (5.0 pps)
+### 175: [Lommy Greenhands](https://fantasora.com/char/127) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4095,7 +4185,7 @@
 
 </details>
 
-### 173: [Matthos Seaworth](https://fantasora.com/char/163) (5.0 pps)
+### 176: [Matthos Seaworth](https://fantasora.com/char/163) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4107,7 +4197,7 @@
 
 </details>
 
-### 174: [Rakharo](https://fantasora.com/char/138) (5.0 pps)
+### 177: [Rakharo](https://fantasora.com/char/138) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4119,7 +4209,7 @@
 
 </details>
 
-### 175: [Torrhen Karstark](https://fantasora.com/char/179) (5.0 pps)
+### 178: [Torrhen Karstark](https://fantasora.com/char/179) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4131,7 +4221,7 @@
 
 </details>
 
-### 176: [Hizdahr zo Loraq](https://fantasora.com/char/96) (5.0 pps)
+### 179: [Hizdahr zo Loraq](https://fantasora.com/char/96) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4143,7 +4233,7 @@
 
 </details>
 
-### 177: [White Rat](https://fantasora.com/char/203) (5.0 pps)
+### 180: [White Rat](https://fantasora.com/char/203) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4155,7 +4245,7 @@
 
 </details>
 
-### 178: [Black Walder](https://fantasora.com/char/259) (5.0 pps)
+### 181: [Black Walder](https://fantasora.com/char/259) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4167,7 +4257,7 @@
 
 </details>
 
-### 179: [Bobono (Tyrion actor)](https://fantasora.com/char/244) (5.0 pps)
+### 182: [Bobono (Tyrion actor)](https://fantasora.com/char/244) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4179,7 +4269,7 @@
 
 </details>
 
-### 180: [Bowen Marsh](https://fantasora.com/char/194) (5.0 pps)
+### 183: [Bowen Marsh](https://fantasora.com/char/194) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4191,7 +4281,7 @@
 
 </details>
 
-### 181: [Braavosi Ned Stark Actor](https://fantasora.com/char/241) (5.0 pps)
+### 184: [Braavosi Ned Stark Actor](https://fantasora.com/char/241) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4203,7 +4293,7 @@
 
 </details>
 
-### 182: [Howland Reed](https://fantasora.com/char/251) (5.0 pps)
+### 185: [Howland Reed](https://fantasora.com/char/251) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4215,7 +4305,7 @@
 
 </details>
 
-### 183: [Khal Rhalko](https://fantasora.com/char/229) (5.0 pps)
+### 186: [Khal Rhalko](https://fantasora.com/char/229) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4227,7 +4317,7 @@
 
 </details>
 
-### 184: [Lem Lemoncloak](https://fantasora.com/char/246) (5.0 pps)
+### 187: [Lem Lemoncloak](https://fantasora.com/char/246) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4239,7 +4329,7 @@
 
 </details>
 
-### 185: [Lothar Frey](https://fantasora.com/char/257) (5.0 pps)
+### 188: [Lothar Frey](https://fantasora.com/char/257) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4251,7 +4341,7 @@
 
 </details>
 
-### 186: [Maege Mormont](https://fantasora.com/char/158) (5.0 pps)
+### 189: [Maege Mormont](https://fantasora.com/char/158) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4263,7 +4353,7 @@
 
 </details>
 
-### 187: [Morgan](https://fantasora.com/char/247) (5.0 pps)
+### 190: [Morgan](https://fantasora.com/char/247) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4275,7 +4365,7 @@
 
 </details>
 
-### 188: [Othell Yarwyck](https://fantasora.com/char/253) (5.0 pps)
+### 191: [Othell Yarwyck](https://fantasora.com/char/253) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4287,7 +4377,7 @@
 
 </details>
 
-### 189: [Three-eyed raven](https://fantasora.com/char/134) (5.0 pps)
+### 192: [Three-eyed raven](https://fantasora.com/char/134) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4299,7 +4389,7 @@
 
 </details>
 
-### 190: [Captured Wight](https://fantasora.com/char/279) (5.0 pps)
+### 193: [Captured Wight](https://fantasora.com/char/279) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4311,7 +4401,7 @@
 
 </details>
 
-### 191: [Harald Karstark](https://fantasora.com/char/232) (5.0 pps)
+### 194: [Harald Karstark](https://fantasora.com/char/232) (5.0 pps)
 <details>
 <summary> 5 total points in 1 season </summary>
 <details>
@@ -4323,7 +4413,7 @@
 
 </details>
 
-### 192: [Greatjon Umber](https://fantasora.com/char/155) (4.0 pps)
+### 195: [Greatjon Umber](https://fantasora.com/char/155) (4.0 pps)
 <details>
 <summary> 8 total points in 2 seasons </summary>
 <details>
@@ -4341,7 +4431,7 @@
 
 </details>
 
-### 193: [Salladhor Saan](https://fantasora.com/char/55) (4.0 pps)
+### 196: [Salladhor Saan](https://fantasora.com/char/55) (4.0 pps)
 <details>
 <summary> 8 total points in 2 seasons </summary>
 <details>
@@ -4359,7 +4449,7 @@
 
 </details>
 
-### 194: [Shagga](https://fantasora.com/char/154) (3.0 pps)
+### 197: [Shagga](https://fantasora.com/char/154) (3.0 pps)
 <details>
 <summary> 3 total points in 1 season </summary>
 <details>
@@ -4371,7 +4461,7 @@
 
 </details>
 
-### 195: [Bronze Yohn Royce](https://fantasora.com/char/111) (3.0 pps)
+### 198: [Bronze Yohn Royce](https://fantasora.com/char/111) (3.0 pps)
 <details>
 <summary> 9 total points in 3 seasons </summary>
 <details>
@@ -4395,7 +4485,7 @@
 
 </details>
 
-### 196: [Loyal Night's Watchman (Steve Cash)](https://fantasora.com/char/250) (3.0 pps)
+### 199: [Loyal Night's Watchman (Steve Cash)](https://fantasora.com/char/250) (3.0 pps)
 <details>
 <summary> 3 total points in 1 season </summary>
 <details>
@@ -4407,7 +4497,7 @@
 
 </details>
 
-### 197: [Qhono](https://fantasora.com/char/227) (3.0 pps)
+### 200: [Qhono](https://fantasora.com/char/227) (3.0 pps)
 <details>
 <summary> 6 total points in 2 seasons </summary>
 <details>
@@ -4425,7 +4515,7 @@
 
 </details>
 
-### 198: [Robett Glover](https://fantasora.com/char/256) (3.0 pps)
+### 201: [Robett Glover](https://fantasora.com/char/256) (3.0 pps)
 <details>
 <summary> 3 total points in 1 season </summary>
 <details>
@@ -4437,7 +4527,7 @@
 
 </details>
 
-### 199: [Vala](https://fantasora.com/char/252) (3.0 pps)
+### 202: [Vala](https://fantasora.com/char/252) (3.0 pps)
 <details>
 <summary> 3 total points in 1 season </summary>
 <details>
@@ -4449,7 +4539,7 @@
 
 </details>
 
-### 200: [Archmaester Sandhu](https://fantasora.com/char/278) (3.0 pps)
+### 203: [Archmaester Sandhu](https://fantasora.com/char/278) (3.0 pps)
 <details>
 <summary> 3 total points in 1 season </summary>
 <details>
@@ -4461,7 +4551,7 @@
 
 </details>
 
-### 201: [Ed Sheeran](https://fantasora.com/char/270) (3.0 pps)
+### 204: [Ed Sheeran](https://fantasora.com/char/270) (3.0 pps)
 <details>
 <summary> 3 total points in 1 season </summary>
 <details>
@@ -4473,7 +4563,7 @@
 
 </details>
 
-### 202: [Koner (actor: Joseph Quinn)](https://fantasora.com/char/265) (3.0 pps)
+### 205: [Koner (actor: Joseph Quinn)](https://fantasora.com/char/265) (3.0 pps)
 <details>
 <summary> 3 total points in 1 season </summary>
 <details>
@@ -4485,7 +4575,7 @@
 
 </details>
 
-### 203: [Rhaegar Targaryen](https://fantasora.com/char/283) (3.0 pps)
+### 206: [Rhaegar Targaryen](https://fantasora.com/char/283) (3.0 pps)
 <details>
 <summary> 3 total points in 1 season </summary>
 <details>
@@ -4497,7 +4587,7 @@
 
 </details>
 
-### 204: [Brant](https://fantasora.com/char/207) (1.0 pps)
+### 207: [Brant](https://fantasora.com/char/207) (1.0 pps)
 <details>
 <summary> 1 total points in 1 season </summary>
 <details>
