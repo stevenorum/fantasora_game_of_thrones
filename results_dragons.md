@@ -329,7 +329,31 @@
 
 </details>
 
-### 8: [Doran Martell](https://fantasora.com/char/185) (75.5 pps)
+### 8: [Viserion](https://fantasora.com/char/390) (78.3 pps)
+<details>
+<summary> 235 total points in 3 seasons </summary>
+<details>
+<summary>Season 7: 218</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/8/char/390)  
+**Kills** : 218  
+</details>
+<details>
+<summary>Season 6: 13</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/7/char/390)  
+**Kills** : 13  
+</details>
+<details>
+<summary>Season 2: 4</summary>
+
+[Fantasora link](https://fantasora.com/game/1/season/3/char/390)  
+**Kills** : 4  
+</details>
+
+</details>
+
+### 9: [Doran Martell](https://fantasora.com/char/185) (75.5 pps)
 <details>
 <summary> 151 total points in 2 seasons </summary>
 <details>
@@ -346,30 +370,6 @@
 **Insults** : 18  
 **Politics** : 24  
 **Wine** : 5  
-</details>
-
-</details>
-
-### 9: [Viserion](https://fantasora.com/char/390) (73.0 pps)
-<details>
-<summary> 219 total points in 3 seasons </summary>
-<details>
-<summary>Season 7: 202</summary>
-
-[Fantasora link](https://fantasora.com/game/1/season/8/char/390)  
-**Kills** : 202  
-</details>
-<details>
-<summary>Season 6: 13</summary>
-
-[Fantasora link](https://fantasora.com/game/1/season/7/char/390)  
-**Kills** : 13  
-</details>
-<details>
-<summary>Season 2: 4</summary>
-
-[Fantasora link](https://fantasora.com/game/1/season/3/char/390)  
-**Kills** : 4  
 </details>
 
 </details>
